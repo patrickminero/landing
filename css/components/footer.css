@@ -1,0 +1,25 @@
+footer{
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    text-align: center;
+    padding: 75px;
+}
+
+footer p{
+    margin: 0;
+    color: rgba(255, 255, 255, 0.3);
+}
+footer p span{
+    color: red;
+}
+
+.social-div{
+    
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.social-div i{
+    margin: 0 5px;
+    color: #1EDD88;
+}
